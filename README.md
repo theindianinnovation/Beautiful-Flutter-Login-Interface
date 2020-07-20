@@ -2,8 +2,7 @@
 
 
 A new Flutter application.
-
-![WhatsApp Image 2020-07-20 at 1 06 44 PM (1)](https://user-images.githubusercontent.com/66554769/87916469-1afbce00-ca91-11ea-9c31-80f24d2d9eaa.jpeg)![WhatsApp Image 2020-07-20 at 1 06 44 PM](https://user-images.githubusercontent.com/66554769/87916474-1c2cfb00-ca91-11ea-98a7-3a6d5467e44a.jpeg)
+![WhatsApp Image 2020-07-20 at 1 06 44 PM](https://user-images.githubusercontent.com/66554769/87916474-1c2cfb00-ca91-11ea-98a7-3a6d5467e44a.jpeg)![WhatsApp Image 2020-07-20 at 1 06 44 PM (1)](https://user-images.githubusercontent.com/66554769/87916469-1afbce00-ca91-11ea-9c31-80f24d2d9eaa.jpeg
 
 
 ## Getting Started
